@@ -1,3 +1,4 @@
 name='sayem'
+age=30
+print(name.upper(),age)
 
-print(name.upper())
